@@ -7,7 +7,7 @@
 3. Após o primeiro minuto (60 segundos), cortar um trecho entre os segundos 60 e 80.
 4. Inserir o trecho cortado ao final do vídeo.
 
-### **Etapas do Processo**
+### **Etapas**
 
 #### **1. Inversão no Eixo Horizontal a Cada 20 Segundos**
 - **Técnica**: Divisão do vídeo em clipes de 20 segundos.
